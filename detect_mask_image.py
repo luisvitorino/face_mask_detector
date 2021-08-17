@@ -112,7 +112,7 @@ smtp_ssl_host = 'smtp.gmail.com'
 smtp_ssl_port = 465
 # username ou email para logar no servidor
 username = 'testepyimage@gmail.com'
-password = ',4569ohrt'
+password = '******'
 
 strFrom = 'testepyimage@gmail.com'
 strTo = 'luisgvs14@yahoo.com.br'
